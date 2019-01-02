@@ -2,18 +2,25 @@
 
 This application installs the Talking Website Widget on your Wordpress blog/website.
 
-Introduction
 ************
+Introduction
 
 Talking Website is a free AI powered Widget that rapidly installs a chatbot on your website. It also has premium features that promise much more!
 
-Requirement
 ***********
-To install the QuickHelp's Talking Website Widget, you need to create an account at https://widget.quickhelp.com.ng/dashboard/signup.php to obtain a chatbot ID.
+
+Requirement
+
+To install the QuickHelp's Talking Website Widget successfully, you'll need to :
+
+1. create an account at https://widget.quickhelp.com.ng/dashboard/signup.php to obtain a chatbot ID.
+2. Embed the code generated on your dashboard within the body tag of your website's landing page (or any other page).
+3. Engage the dashboard to train your dasboard.
+4. For Wordpress sites, download the Talking Website Wordpress widget 
 
 
-Why Talking Website?
 ********************
+Why Talking Website?
 
 With Talking Website, The FAQ is now history as the widget simply enables your website converse with your website visitors, providing the right instant responses, and taking note of their concerns.
 
@@ -31,3 +38,4 @@ With these capabilities, you also become eligible for all our Partnership Scheme
 
 For more information, concerns or suggestions, send an email to support@quickhelp.com.ng
 
+*********************
