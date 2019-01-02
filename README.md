@@ -1,4 +1,4 @@
-# quickhelp
+# QuickHelp
 
 This application installs the Talking Website Widget on your Wordpress blog/website.
 
