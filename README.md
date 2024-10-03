@@ -1,3 +1,32 @@
+
+# Introduction 
+
+The QuickHelp’s Knowledge Script (QKnows) is a Natural Language Processing (NLP) system
+created originally for use on the QuickHelp’s TalkingWebsite dashboard. It was developed with
+simplicity, transparency and ease of adoption in mind. QKnows is written in Knowledge Entities
+(Knowets in short). Knowets are scripted data sets engaged to ‘train’ Chatbots created on the
+QuickHelps Talking Website Dashboard
+
+
+# Current Features
+Reusable Simple Sentences
+The QuickHelp Knowledge Script (Qknows) is written with Knowledge Entities (Knowets). The script can be written manually, uploaded or simply generated on the dashboard. Also, the Qknows Website Reader (QWR) writes to Qknows files which may easily be transferred and reused.
+
+# Key features
+Aside from simple intent triggers (or prompts), the Qknows framework supports features such as call-toaction buttons responses, audio and video responses, speech recognition, sentiment analysis and mood detection, named entity templates, automatic text reader as well as text to speech capabilities.
+
+# Access and Integration
+QKnows is by default, integrated on the QuickHelp's Talking Website Dashboard. However, in addition to its simple Script integration option, the framework can connect with Google's DialogFlow, OpenAI’s GPT and Hugging Face . Qknows also has a plugin created for Wordpress.
+
+# Custom Templates as Responses
+QKnows also supports call-to-action responses (CTA), Image responses, Video responses and YouTube Videos as responses.
+
+# Built in Named Entity Recognition
+QuickHelp adopts a custom-built algorithm to detect and recognize entities within a prompt, which may
+be harvested for interaction with external APIs for more intuitive and engaging integrations. 
+
+
+
 # QuickHelp's Talking Website
 
 This application installs the Talking Website Widget on your Wordpress blog/website.
