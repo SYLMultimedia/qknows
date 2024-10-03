@@ -27,9 +27,9 @@ be harvested for interaction with external APIs for more intuitive and engaging 
 
 
 
-# QuickHelp's Talking Website
+# QuickHelp's Talking Website on Wordpress
 
-This application installs the Talking Website Widget on your Wordpress blog/website.
+The zipped file (QuickHelp_TW.zip) installs the Talking Website Widget on your Wordpress blog/website.
 
 ************
 Introduction
